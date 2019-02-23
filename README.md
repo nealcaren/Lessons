@@ -8,3 +8,6 @@
 2. [Data management in pandas](https://github.com/nealcaren/Lessons/blob/master/Notebooks/Data%20management%20in%20pandas.ipynb)
 3. [Finding undocumented APIs](https://github.com/nealcaren/Lessons/blob/master/Notebooks/Undocument%20APIs.ipynb)
 4. [Downloading lot of files](https://github.com/nealcaren/Lessons/blob/master/Notebooks/Downloading.ipynb)
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nealcaren/Lessons/master)
