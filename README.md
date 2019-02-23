@@ -8,7 +8,7 @@ Getting Started
 2. [Data management in pandas](https://github.com/nealcaren/Lessons/blob/master/Notebooks/Data%20management%20in%20pandas.ipynb)
 
 Collecting and Managing Data    
-3. [A First API](https://github.com/nealcaren/Lessons/blob/master/Notebooks/A%20First%20API.ipynb)
+1. [A First API](https://github.com/nealcaren/Lessons/blob/master/Notebooks/A%20First%20API.ipynb)
 3. [Finding undocumented APIs](https://github.com/nealcaren/Lessons/blob/master/Notebooks/Undocument%20APIs.ipynb) - *Draft*
 4. [Downloading lot of files](https://github.com/nealcaren/Lessons/blob/master/Notebooks/Downloading.ipynb)
 
