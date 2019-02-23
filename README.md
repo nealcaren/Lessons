@@ -10,7 +10,7 @@ Getting Started
 Collecting and Managing Data    
 1. [A First API](https://github.com/nealcaren/Lessons/blob/master/Notebooks/A%20First%20API.ipynb)
 3. [Finding undocumented APIs](https://github.com/nealcaren/Lessons/blob/master/Notebooks/Undocument%20APIs.ipynb) - *Draft*
-4. [Downloading lot of files](https://github.com/nealcaren/Lessons/blob/master/Notebooks/Downloading.ipynb)
+4. [Downloading a lot of files](https://github.com/nealcaren/Lessons/blob/master/Notebooks/Downloading.ipynb)
 
 Analysis    
 1. [Counting Words](https://github.com/nealcaren/Lessons/blob/master/Notebooks/Counting%20Words.ipynb)
