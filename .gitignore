@@ -2,3 +2,7 @@
 .DS_Store
 .ipynb_checkpoints/Undocument APIs-checkpoint.ipynb
 .DS_Store
+.*
+.ipynb_checkpoints/Data management in pandas-checkpoint.ipynb
+.ipynb_checkpoints/Downloading-checkpoint.ipynb
+.ipynb_checkpoints/Getting Starting with Python-checkpoint.ipynb
