@@ -1,0 +1,16 @@
+name: osscabd_2019
+channels:
+  - conda-forge
+  - damianavila82
+dependencies:
+  - pandas
+  - requests
+  - anaconda
+  - pip:
+    - docx2txt
+    - pypdf2
+    - python-slugify
+    - afinn
+    - vaderSentiment
+    - python-louvain
+    - twarc
