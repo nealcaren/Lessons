@@ -1,6 +1,6 @@
-## Texting Mining in Python  
-### [Neal Caren](mailto:neal.caren@unc.edu)
-### University of North Carolina, Chapel Hill
+**Texting Mining in Python** 
+[Neal Caren](mailto:neal.caren@unc.edu)
+University of North Carolina, Chapel Hill
 
 This repository contains a series of lessons designed to assist social scientists in learning to collect and analyze text data in Python. Lessons without links only exist in my head.
 
