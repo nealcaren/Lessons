@@ -12,7 +12,7 @@ The Getting Starting series of lessons are designed for folks who have some expe
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nealcaren/Lessons/master)
 
 **Getting Started **   
-1. Your first notebook  
+1. [Your first notebook](https://github.com/nealcaren/Lessons/blob/master/Notebooks/First%20Notebook.ipynb) - *Draft*    
 1. [Getting started with python](https://github.com/nealcaren/Lessons/blob/master/Notebooks/Getting%20Starting%20with%20Python.ipynb).  
 2. [Data management in pandas](https://github.com/nealcaren/Lessons/blob/master/Notebooks/Data%20management%20in%20pandas.ipynb).   
 3. [Loading common data formats](https://github.com/nealcaren/Lessons/blob/master/Notebooks/Loading.ipynb).   
