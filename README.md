@@ -31,7 +31,9 @@ Data Management
 Analysis   
 1. [Counting Words](https://github.com/nealcaren/Lessons/blob/master/Notebooks/Counting%20Words.ipynb)   
 2. [Word Lists and Sentiment Analysis](https://github.com/nealcaren/Lessons/blob/master/Notebooks/Word%20Lists.ipynb)  
+3. Parts of speech  
 3. Text classification   
+4. Model fitting and overfitting
 4. Topic modeling   
 5. Word embeddings  
 6. Building a pipeline   
