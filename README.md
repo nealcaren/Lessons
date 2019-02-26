@@ -5,10 +5,10 @@ University of North Carolina, Chapel Hill
 This repository contains a series of lessons designed to assist social scientists in learning to collect and analyze text data in Python. Lessons without links only exist in my head.
 
 Getting Started.   
-1. Your first Python notebook  
+1. Your first notebook  
 1. [Getting started with python](https://github.com/nealcaren/Lessons/blob/master/Notebooks/Getting%20Starting%20with%20Python.ipynb).  
 2. [Data management in pandas](https://github.com/nealcaren/Lessons/blob/master/Notebooks/Data%20management%20in%20pandas.ipynb).   
-3. Common data formats   
+3. [Loading common data formats](https://github.com/nealcaren/Lessons/blob/master/Notebooks/Loading.ipynb).   
 
 APIs   
 1. [A First API](https://github.com/nealcaren/Lessons/blob/master/Notebooks/A%20First%20API.ipynb) - *Draft*   

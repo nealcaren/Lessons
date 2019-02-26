@@ -9,6 +9,7 @@ dependencies:
   - pip:
     - docx2txt
     - pypdf2
+    - newspaper3k
     - python-slugify
     - afinn
     - vaderSentiment
