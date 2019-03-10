@@ -41,6 +41,7 @@ The Getting Starting series of lessons are designed for folks who have some expe
 3. Parts of speech  
 3. Text classification   
 4. Model fitting and overfitting   
+5. [Gender based on first name](https://github.com/nealcaren/Lessons/blob/master/Notebooks/Gender%20Names.ipynb) 
 4. Topic modeling   
 5. Word embeddings  
 6. Building a pipeline   
